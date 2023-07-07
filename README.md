@@ -21,7 +21,7 @@
   </p>
 
 
-<p >I specialize in the use of Python Programming Language and its' various frameworks and libraries such as Numpy, Pandas, SciKit Learn, OpenCV, TensorFlow, Pytorch etc to create analytical and machine models from data which can be used for data visualization and optimisation in business's and other fields of interest.
+<p >As a driven final-year undergraduate pursuing a BTech in Computer Science and Engineering from the renowned National Institute of Technology Delhi, I possess a strong understanding of computer science fundamentals and proficient skills in data structures and algorithms. Leveraging my exceptional analytical, problem-solving abilities, and solid understanding of CS fundamentals, I am deeply passionate about software development and possess a strong interest in the MERN stack. With a proven track record of successfully completing projects utilizing the MERN stack, I have acquired extensive hands-on experience in developing dynamic web applications using MongoDB, Express.js, React, and Node.js. Additionally, my internship in backend development has honed my skills in building robust and scalable solutions using Node.js. I am eagerly seeking opportunities to apply my expertise and enthusiasm as a Software Development Engineer, significantly impacting your esteemed organization.
 </p>
 
 
@@ -126,7 +126,7 @@
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/sanskar-kumar"><img alt="Ifeanyi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sanskar-kumar&custom_title=Ifeanyi's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/sanskar-kumar"><img alt="Sanskar Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sanskar-kumar&custom_title=Sanskar's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 </details>
