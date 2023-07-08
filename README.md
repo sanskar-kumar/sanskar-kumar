@@ -144,16 +144,21 @@
 
 ## Github Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
 
-
+<summary><b>💻Languages</b></summary>
+<br/>
+<p align="center">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sanskar-kumar&show_icons=true&locale=en&layout=compact&theme=merko" alt="nneji123" height="192px"/>
+  <br/>
+</p>
+<details>
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Sanskar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sanskar-kumar&show_icons=true&count_private=true&theme=merko" height="192px"/></a>
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sanskar-kumar&show_icons=true&locale=en&layout=compact&theme=merko" alt="nneji123" height="192px"/>
-  <br/>
   </p>
+  </details>
 
 
 <details>
