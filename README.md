@@ -100,23 +100,44 @@
 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sanskar-kumar&repo=Mistryhub&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sanskar-kumar&repo=Mistryhub&theme=highcontrast" />
 
 </a>  
 <a href="https://github.com/sanskar-kumar/Moviebuff">
 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sanskar-kumar&repo=MovieBuff&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sanskar-kumar&repo=MovieBuff&theme=highcontrast" />
 
 </a>  
 <a href="https://github.com/sanskar-kumar/HostelWorld">
 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sanskar-kumar&repo=HostelWorld&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sanskar-kumar&repo=HostelWorld&theme=highcontrast" />
 
 </a> 
+<a href="https://github.com/sanskar-kumar/DigiNotes">
+
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sanskar-kumar&repo=DigiNotes&theme=highcontrast" />
+
+</a> 
+<a href="https://github.com/sanskar-kumar/edYoda">
+
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sanskar-kumar&repo=edYoda&theme=highcontrast" />
+
+</a>
+<a href="https://github.com/sanskar-kumar/Simon">
+
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sanskar-kumar&repo=Simon&theme=highcontrast" />
+
+</a>
 
 
 
@@ -128,10 +149,10 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Ifeanyi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sanskar-kumar&show_icons=true&count_private=true&theme=tokyonight" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Ifeanyi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sanskar-kumar&show_icons=true&count_private=true&theme=merko" height="192px"/></a>
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sanskar-kumar&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="nneji123" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sanskar-kumar&show_icons=true&locale=en&layout=compact&theme=merko" alt="nneji123" height="192px"/>
   <br/>
   </p>
 </details>
@@ -140,7 +161,7 @@
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/sanskar-kumar"><img alt="Sanskar Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sanskar-kumar&custom_title=Sanskar's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/sanskar-kumar"><img alt="Sanskar Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=sanskar-kumar&theme=gotham)" /></a>
   <br/>
 
 </details>
@@ -148,7 +169,7 @@
 <br/>
 
 ## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sanskar-kumar&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=sanskar-kumar&theme=chartreuse-dark&no-frame=false&no-bg=false&margin-w=4)
 
 
 
