@@ -1,6 +1,6 @@
 ## Hi, I’m Sanskar Kumar <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> 
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Web+Developer;I'm+a++Computer+Science+Undergraduate" />
+  <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Programmer;I'm+a+Web+Developer;I'm+a++Computer+Science+Undergraduate" />
 </p>
 
 <p align ="center">
@@ -21,7 +21,7 @@
   </p>
 
 
-<p >As a driven final-year undergraduate pursuing a BTech in Computer Science and Engineering from the renowned National Institute of Technology Delhi, I possess a strong understanding of computer science fundamentals and proficient skills in data structures and algorithms. Leveraging my exceptional analytical, problem-solving abilities, and solid understanding of CS fundamentals, I am deeply passionate about software development and possess a strong interest in the MERN stack. With a proven track record of successfully completing projects utilizing the MERN stack, I have acquired extensive hands-on experience in developing dynamic web applications using MongoDB, Express.js, React, and Node.js. Additionally, my internship in backend development has honed my skills in building robust and scalable solutions using Node.js. I am eagerly seeking opportunities to apply my expertise and enthusiasm as a Software Development Engineer, significantly impacting your esteemed organization.
+<p >As a driven final-year undergraduate pursuing a BTech in Computer Science and Engineering from the renowned National Institute of Technology Delhi, I possess a strong understanding of computer science fundamentals and proficient skills in data structures and algorithms. Leveraging my exceptional analytical, problem-solving abilities, and a solid understanding of CS fundamentals, I am deeply passionate about software development and possess a strong interest in the MERN stack. With a proven track record of successfully completing projects utilizing the MERN stack, I have acquired extensive hands-on experience in developing dynamic web applications using MongoDB, Express.js, React, and Node.js. Additionally, my internship in backend development has honed my skills in building robust and scalable solutions using Node.js. I am eagerly seeking opportunities to apply my expertise and enthusiasm as a Software Development Engineer, significantly impacting your esteemed organization.
 </p>
 
 
