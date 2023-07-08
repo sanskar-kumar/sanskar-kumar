@@ -149,7 +149,7 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Ifeanyi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sanskar-kumar&show_icons=true&count_private=true&theme=merko" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Sanskar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sanskar-kumar&show_icons=true&count_private=true&theme=merko" height="192px"/></a>
 <br/>
   &nbsp;
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sanskar-kumar&show_icons=true&locale=en&layout=compact&theme=merko" alt="nneji123" height="192px"/>
@@ -161,7 +161,7 @@
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/sanskar-kumar"><img alt="Sanskar Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=sanskar-kumar&theme=gotham)" /></a>
+   <a href="https://github.com/sanskar-kumar"><img alt="Sanskar Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=sanskar-kumar&theme=merko)" /></a>
   <br/>
 
 </details>
@@ -169,7 +169,7 @@
 <br/>
 
 ## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sanskar-kumar&theme=chartreuse-dark&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=sanskar-kumar&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
 
 
 
